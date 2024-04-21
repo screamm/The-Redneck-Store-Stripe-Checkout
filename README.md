@@ -27,23 +27,12 @@ Login system with registration form.
 - [x] **Save Orders**: Orders to be saved in JSON file.
 - [x] **Payment Validation**: Order saved only if payment on Stripe is verified.
 
-
 <br>
-<br>
-
-
-<h2>Features</h2>
-
-- Stripe Checkout Integration
-- Node.js Express backend
-- Save orders and users to to seperate JSON files
-
 <br>
 
 <h2>Installation</h2>
 <br>
 <br>
-
 - Clone repository [Github](https://github.com/screamm/TheRedneckStore)
 - Node.js installed
 - Stripe account "[Stripe](https://stripe.com/se)" with products added and API-key
