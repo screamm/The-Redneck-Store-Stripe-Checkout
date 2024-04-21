@@ -5,7 +5,6 @@
 
 <h3 align="center">
   Fullstack application integrating Stripe Checkout
-
 </h3>
 <br>
 <br>
@@ -14,7 +13,9 @@
 
 YH-shool assignment integrating Stripe Checkout for order payment.
 Login system with registration form.
+<br>
 
+<br>
 
 <h2>Requirements </h2>
 
@@ -27,6 +28,8 @@ Login system with registration form.
 - [x] **Payment Validation**: Order saved only if payment on Stripe is verified.
 
 
+<br>
+<br>
 
 
 <h2>Features</h2>
