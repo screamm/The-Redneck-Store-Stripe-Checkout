@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/screamm/TheRedneckStore/main/theredneckstore.jpg" alt="redneck store banner">
+</p>
 <br>
 
 <h3 align="center">
@@ -8,13 +10,13 @@
 <br>
 <br>
 
-<h3 align="center"> Description </h3>
+<h2> Description </h2>
 
 YH-shool assignment integrating Stripe Checkout for order payment.
 Login system with registration form.
 
 
-<h3 align="center">Requirements </h3>
+<h2>Requirements </h2>
 
 - [x] **Products**: Listing of products on a page, fetched from Stripe.
 - [x] **Cart**: Add products to a shopping cart.
