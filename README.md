@@ -33,13 +33,15 @@ Login system with registration form.
 <h2>Installation</h2>
 <br>
 <br>
+
 - Clone repository [Github](https://github.com/screamm/TheRedneckStore)
 - Node.js installed
 - Stripe account "[Stripe](https://stripe.com/se)" with products added and API-key
 - Create an .env file in server folder with: STRIPE_KEY={YOUR_KEY} and STRIPE_PUBLIC_KEY={YOUR KEY}
--- Open Terminal for Client: `cd client` run `npm install` and `npm run dev`
+- Open Terminal for Client: `cd client` run `npm install` and `npm run dev`
 - Open new Terminal for Server: `cd server` run `npm install` and `npm start`
 - Open browser and go to http://localhost:5173/
+  
   
 <br>
 <br>
